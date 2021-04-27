@@ -1,32 +1,27 @@
-# Vishku - Notes App 
+# **Vishku - Notes App**
 #
 ## Demo: 
 #
+### Step 1 : Install dependencies for server
+#### `npm install`
 #
-## Install dependencies for server 
-### `npm install`
+### Step 2 : Install dependencies for client
+#### cd client ---> `npm install`
 #
+### Step 3 : Connect to your mongodb database
 #
-## Install dependencies for client
-### cd client ---> `npm install`
+### Step 4 : Run client & server concurrently
+#### `npm run dev`
 #
+### Step 5 : Run the Express server
+#### `npm run server`
 #
-## Connect to your mongodb
+### Step 6 : Run the React client
+#### `npm run client`
 #
+### **Server runs on** http://localhost:5000
+### **Client runs on** http://localhost:3000
 #
-## Run the client & server with concurrently
-### `npm run dev`
-#
-#
-## Run the Express server :
-### `npm run server`
-#
-#
-## Run the React client :
-### `npm run client`
-#
-#
-### Server runs on http://localhost:5000 and client on http://localhost:3000
 #
 ## Signup Page
 ![alt](https://res.cloudinary.com/dez2plvsf/image/upload/v1619481287/e-Diary/Signup_Page_qqu0my.jpg)
