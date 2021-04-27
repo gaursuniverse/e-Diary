@@ -1,7 +1,5 @@
 # **Vishku - Notes App**
 #
-## Demo: 
-#
 ### Step 1 : Install dependencies for server
 #### `npm install`
 #
