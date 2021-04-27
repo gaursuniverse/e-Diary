@@ -1,4 +1,4 @@
-# **Vishku - Notes App**
+#           **Vishku - Notes App**
 #
 ### _Step 1 :_ Install dependencies for server
 #### `npm install`
@@ -6,7 +6,7 @@
 ### _Step 2 :_ Install dependencies for client
 #### cd client ---> `npm install`
 #
-### _Step 3 :_ Connect to your mongodb database
+### _Step 3 :_ Connect to mongodb database
 #
 ### _Step 4 :_ Run client & server concurrently
 #### `npm run dev`
