@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Freckle Face
+- Font Author: Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name "Freckle Face"
+- Font Source: http://fonts.gstatic.com/s/freckleface/v9/AMOWz4SXrmKHCvXTohxY-YI0U1K2w9lb4g.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
