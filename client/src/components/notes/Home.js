@@ -47,7 +47,7 @@ export default function Home() {
                         <p className="date">{format(note.date)}</p>
                         <div className="card-footer">
                             {note.name}
-                            <Link to={`edit/${note._id}`} >Edit</Link>
+                            <Link to={`edit/${note._id}`} ><span>Edit</span></Link>
                         </div>
                         <button className="close" 
                         onClick={() => deleteNote(note._id)} >X</button>

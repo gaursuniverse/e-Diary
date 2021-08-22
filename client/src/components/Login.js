@@ -50,6 +50,7 @@ export default function Login({setIsLogin}) {
     return (
        <section className="login-page">
            <div className="login create-note">
+                <div className="brand-logo"></div>
                 <h2>Login</h2>
                 <form onSubmit={loginSubmit}>
                     <input type="email" name="email" id="login-email"
@@ -69,7 +70,8 @@ export default function Login({setIsLogin}) {
                 </form>
            </div>
            <div className="register create-note" style={style}>
-           <h2>Register</h2>
+               <div className="brand-logo"></div>
+                <h2>Register</h2>
                 <form onSubmit={registerSubmit}>
                     <input type="text" name="name" id="register-name"
                     placeholder="User Name" required value={user.name}

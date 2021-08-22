@@ -60,14 +60,14 @@ export default function EditNote({match}) {
         <div className="create-note">
             <h2>Edit Note</h2>
             <form onSubmit={editNote} autoComplete="off">
+                <label htmlFor="title">Title:</label>
                 <div className="row">
-                    <label htmlFor="title">Title</label>
                     <input type="text" value={note.title} id="title"
                     name="title" required onChange={onChangeInput} />
                 </div>
 
+                <label htmlFor="content">Content:</label>
                 <div className="row">
-                    <label htmlFor="content">Content</label>
                     <textarea type="text" value={note.content} id="content"
                     name="content" required rows="10" onChange={onChangeInput} />
                 </div>
